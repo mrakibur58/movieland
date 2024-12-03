@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  max-width: 1280px;
+  padding-top: 1rem;
+  margin-inline: auto;
+  min-height: calc(100dvh - 7.75rem);
+  padding-inline: 1rem;
+}
